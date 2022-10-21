@@ -30,7 +30,8 @@
 .news-grid-item-title {
     font-size: 23px;
     font-weight: 600;
-    margin: 10px 0 0 10px;
+    margin-left: 10px;
+    margin-right: 10px;
     font-family: Poppins;
 }
 .news-grid-item-description {
